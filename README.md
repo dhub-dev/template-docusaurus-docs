@@ -20,7 +20,7 @@ As you embark on your documentation adventure, this initial page serves as your 
 
    - Click on any component to modify its content.
 
-   - Utilize the toolbar for additional [*formatting*](#) options.
+   - Utilize the toolbar for additional [_formatting_](#) options.
 
 3. **Create New Documentation Pages:**
 
@@ -46,7 +46,7 @@ Dhub harnesses the capabilities of Docusaurus, a modern open-source documentatio
 
 :::note Learn more
 
-Go to **"[2024-01-20-how-it-works.md](2024-01-20-how-it-works/index.md)"** file to learn the best practices using Docusaurus.
+Go to **"[intro.md](docs/intro.md)"** file to learn the best practices using Docusaurus.
 
 :::
 
