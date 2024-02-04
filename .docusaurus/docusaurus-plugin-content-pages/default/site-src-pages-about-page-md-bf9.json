@@ -1,0 +1,11 @@
+{
+  "type": "mdx",
+  "permalink": "/about-page",
+  "source": "@site/src/pages/about-page.md",
+  "title": "About",
+  "description": "You don't need React to write simple standalone pages.",
+  "frontMatter": {
+    "title": "About"
+  },
+  "unlisted": false
+}

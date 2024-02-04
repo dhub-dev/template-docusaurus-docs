@@ -1,0 +1,15 @@
+{
+  "title": "Advanced tip",
+  "slug": "/category/advanced-tip",
+  "permalink": "/category/advanced-tip",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/advanced/manage-docs-versions"
+    }
+  }
+}

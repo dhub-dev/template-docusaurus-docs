@@ -1,0 +1,16 @@
+{
+  "title": "Docusaurus Tips",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/docusaurus-tips",
+  "permalink": "/category/docusaurus-tips",
+  "navigation": {
+    "previous": {
+      "title": "Welcome to Dhub",
+      "permalink": "/"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/tutorial-basics/create-a-page"
+    }
+  }
+}

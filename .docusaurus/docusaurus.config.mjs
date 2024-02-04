@@ -4,12 +4,12 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Universal Docs",
+  "tagline": "Efficient documentation solutions for everyone.",
   "favicon": "img/favicon.ico",
   "url": "https://your-docusaurus-site.example.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
+  "organizationName": "your-organisation",
   "projectName": "docusaurus",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
@@ -26,13 +26,11 @@ export default {
       "classic",
       {
         "docs": {
+          "routeBasePath": "/",
           "sidebarPath": "./sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
+        "blog": false,
         "theme": {
           "customCss": "./src/css/custom.css"
         }
@@ -42,45 +40,26 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
-      "logo": {
-        "alt": "My Site Logo",
-        "src": "img/logo.svg"
-      },
+      "title": "Universal Docs",
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
+          "to": "/",
+          "label": "Home",
           "position": "left"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
-          "label": "GitHub",
-          "position": "right"
+          "to": "/about-page",
+          "label": "About",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
     },
     "footer": {
-      "style": "dark",
+      "style": "light",
       "links": [
         {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
-        {
-          "title": "Community",
+          "title": "Docusaurus Community",
           "items": [
             {
               "label": "Stack Overflow",
@@ -97,20 +76,46 @@ export default {
           ]
         },
         {
-          "title": "More",
+          "title": "Docusaurus Resources",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
+              "label": "Documentation",
+              "href": "https://docusaurus.io/docs/blog"
             },
             {
               "label": "GitHub",
               "href": "https://github.com/facebook/docusaurus"
             }
           ]
+        },
+        {
+          "title": "Dhub Resources",
+          "items": [
+            {
+              "label": "Application",
+              "href": "https://dhub.dev"
+            },
+            {
+              "label": "Documentation",
+              "href": "https://docs.dhub.dev"
+            }
+          ]
+        },
+        {
+          "title": "Site links",
+          "items": [
+            {
+              "label": "Documentation",
+              "href": "/"
+            },
+            {
+              "label": "About Me",
+              "href": "/about-page"
+            }
+          ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 Blog Website, Inc. Built with Docusaurus, edited with Dhub"
     },
     "prism": {
       "theme": {

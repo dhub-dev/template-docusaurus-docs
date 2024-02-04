@@ -1,0 +1,15 @@
+{
+  "title": "Versions and Translations",
+  "slug": "/category/versions-and-translations",
+  "permalink": "/category/versions-and-translations",
+  "navigation": {
+    "previous": {
+      "title": "Markdown Features",
+      "permalink": "/tutorial-basics/markdown-features"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/tutorial-advanced/manage-docs-versions"
+    }
+  }
+}
