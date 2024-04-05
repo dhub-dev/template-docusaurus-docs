@@ -3,15 +3,15 @@ sidebar_position: 1
 slug: /
 ---
 
-# Getting Started
+# Getting started
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This template is meant for creating a documentation website. Before we begin, checkout out how this website looks on the web.
 
-### Installation
+:::note
 
-```
-$ yarn
-```
+Open this project on the web: [template-docusaurus-docs.dhub.dev](https://template-docusaurus-docs-z7f5.vercel.app)
+
+:::
 
 ### Local Development
 
@@ -31,7 +31,7 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**.
+Read the [**Deployment Guide**](https://docusaurus.io/docs/deployment).
 
 Using SSH:
 
