@@ -3,15 +3,25 @@ sidebar_position: 1
 slug: /
 ---
 
-# Getting Started
+# Introduction
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Welcome to Dhub's Docusaurus 3 documentation template. This guide will help you run a deploy documentation website on the web, and show you how you can use Dhub to edit your website's content.
 
-### Installation
+First off, we invite you to visit this template's website to see how it looks like online.
 
-```
-$ yarn
-```
+:::info
+
+Go here to visit
+
+:::
+
+## Getting started
+
+Here's everything you need to know about how to get started with a new project with Dhub.
+
+1. Every md/mdx file you see on the left side navigation represents a page on your documentation.
+2. Creating a new markdown file will create a new page on your website
+3. If you have GitHub CI set up, every time you push changes to GitHub, they will automatically appear on the web.
 
 ### Local Development
 
