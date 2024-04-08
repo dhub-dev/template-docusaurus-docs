@@ -31,7 +31,11 @@ Every md file you see in the side nav represents a page on your website.
 
 ## How to deploy this website to the Web
 
+![](/img/cover.png)
+
 &#x20;
+
+![](/img/screen.png)
 
 ## Deploy this **website** to the web
 
