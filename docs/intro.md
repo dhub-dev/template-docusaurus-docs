@@ -27,7 +27,11 @@ To add an image, a callout, or any other component to your website type `/` to o
 
 #### **Create a new page**
 
-Every md file you see in the side nav represents a page on your website.
+Every md file you see in the side nav represents a page on your website. To create a new page simply create a new file.&#x20;
+
+When you're in the docs tab, the folder structure in the sidenav matches the left side navigation on your website.
+
+![](/img/create-a-page.png)
 
 ## How to deploy this website to the Web
 
