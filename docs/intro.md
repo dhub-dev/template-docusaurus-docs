@@ -17,7 +17,7 @@ Evything this you see on this page is editable. Just click anywhere and start ty
 
 To make your text bold, convert it into a heading, or add a link – select text and use the formatting menu to apply format to your text.
 
-![](/img/command-menu.webp)
+![](/img/formatting-menu.png)
 
 #### **How to add images and other components**
 
@@ -31,6 +31,8 @@ To add an image, a callout, or any other component to your website type `/` to o
 
 Every md file you see in the side nav represents a page on your website.
 
-## Deploy this website to the web
+&#x20;
+
+## Deploy this **website** to the web
 
 Here's how you can get your website up and running.
