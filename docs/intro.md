@@ -5,15 +5,9 @@ slug: /
 
 # Introduction
 
-Welcome to Dhub's Docusaurus 3 documentation template. This guide will help you run a deploy documentation website on the web, and show you how you can use Dhub to edit your website's content.
+Welcome to Dhub's Docusaurus 3 documentation template. This template serves as a starting point for your documentation, and also a guide that will help you to deploy your own documentation website on the web, and show you how you can use Dhub to edit your website's content.
 
-First off, we invite you to visit this template's website to see how it looks like online.
-
-:::info
-
-Go here to visit
-
-:::
+You can preview this template on the web in following address: [template-docusaurus-docs.dhub.dev](https://template-docusaurus-docs.dhub.dev)
 
 ## Getting started
 
@@ -41,7 +35,7 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**.
+Read the [**Deployment Guide**](https://docusaurus.io/docs/deployment).
 
 Using SSH:
 
