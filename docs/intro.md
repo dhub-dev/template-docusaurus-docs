@@ -9,7 +9,7 @@ Welcome to the Dhub Docusaurus 3 documentation template, your launching pad for 
 
 Preview the template at this URL: [template-docusaurus-docs.dhub.dev](http://template-docusaurus-docs.dhub.dev)
 
-![](/img/isr.png)
+![](/img/isr.webp)
 
 ## Getting started
 
