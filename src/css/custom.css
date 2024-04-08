@@ -25,9 +25,7 @@
     Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol";
   --ifm-container-width-xl: 980px;
-  /* h1 {
-    font-weight: 700;
-  } */
+  --ifm-navbar-shadow: 0 1px 0px 0 var(--ifm-color-gray-300);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
