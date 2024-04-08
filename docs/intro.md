@@ -7,34 +7,28 @@ slug: /
 
 Welcome to the Dhub Docusaurus 3 documentation template, your launching pad for documentation projects. This template guides you through using Dhub to edit your website's content and deploying your website to the web.
 
-Preview the template at this URL: [template-docusaurus-docs.dhub.dev](http://template-docusaurus-docs.dhub.dev)
+Preview the template the following URL: [template-docusaurus-docs.dhub.dev](http://template-docusaurus-docs.dhub.dev)
 
-## Edit your website
+## Get started
 
-Evything this you see on this page is editable. Just click anywhere and start typing (assuming you're in Dhub's editor, and not prevewing the template).
+Everything you see here is editable. [Follow this link to learn more about how to edit your content on Dhub.](edit.mdx)
 
-#### **Format text**
+![](/img/step-1.png)
 
-To make your text bold, convert it into a heading, or add a link – select text and use the formatting menu to apply format to your text.
+---
 
-![](/img/formatting-menu.png)
+You own your website's source code. [Learn how to create a GitHub repository for your project.](intro.md)
 
-#### **Add images and other components**
+![](/img/step-2.png)
 
-To add an image, a callout, or any other component to your website type `/` to open the command menu and then pick the item you want to add.
+---
 
-![](/img/command-menu.webp)
+Deploy your website to the Web with the help of Vercel or Netlify.
 
-#### **Create a new page**
+![](/img/step-3.png)
 
-Every md file you see in the side nav represents a page on your website. To create a new page simply create a new file.&#x20;
+## Need help?
 
-When you're in the docs tab, the folder structure in the sidenav matches the left side navigation on your website.
+We'd be happy to help you with any of the steps! Just click the send feedback button at the top right corner or shoot us an email at [hello@dhub.dev](mailto:hello@dhub.dev)
 
-![](/img/create-a-page.png)
-
-## How to deploy this website to the Web
-
-## Deploy this **website** to the web
-
-Here's how you can get your website up and running.
+&#x20;
