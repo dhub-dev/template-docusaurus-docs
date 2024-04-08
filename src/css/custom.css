@@ -25,6 +25,7 @@
     Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
     "Segoe UI Symbol";
   --ifm-container-width-xl: 980px;
+  --ifm-hr-background-color: var(--ifm-color-emphasis-300);
 }
 
 [data-theme="light"] {
