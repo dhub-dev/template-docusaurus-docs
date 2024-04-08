@@ -31,6 +31,8 @@ To add an image, a callout, or any other component to your website type `/` to o
 
 Every md file you see in the side nav represents a page on your website.
 
-## Deploy this website to the web
+&#x20;
+
+## Deploy this **website** to the web
 
 Here's how you can get your website up and running.
