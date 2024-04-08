@@ -17,7 +17,7 @@ Evything this you see on this page is editable. Just click anywhere and start ty
 
 To make your text bold, convert it into a heading, or add a link – select text and use the formatting menu to apply format to your text.
 
-![](/img/command-menu.webp)
+![](/img/formatting-menu.png)
 
 #### **How to add images and other components**
 
