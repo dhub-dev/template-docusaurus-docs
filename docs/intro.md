@@ -5,9 +5,9 @@ slug: /
 
 # Introduction
 
-Welcome to the Dhub Docusaurus 3 documentation template. This template is your starting point for documentation projects and helps you deploy your documentation website online. It also shows how to use Dhub to edit your website's content.
+Welcome to the Dhub Docusaurus 3 documentation template, your launching pad for documentation projects. This template guides you through using Dhub to edit your website's content and deploying your documentation website online.
 
-Preview this template at the following URL: [template-docusaurus-docs.dhub.dev](http://template-docusaurus-docs.dhub.dev)
+Preview the template at this URL: [template-docusaurus-docs.dhub.dev](http://template-docusaurus-docs.dhub.dev)
 
 ![](/img/isr.png)
 
