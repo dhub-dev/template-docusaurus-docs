@@ -35,6 +35,8 @@ Every md file you see in the side nav represents a page on your website.
 
 &#x20;
 
+![](/img/screen.png)
+
 ## Deploy this **website** to the web
 
 Here's how you can get your website up and running.
