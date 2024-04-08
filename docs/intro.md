@@ -23,9 +23,7 @@ To make your text bold, convert it into a heading, or add a link – select text
 
 To add an image, a callout, or any other component to your website type `/` to open the command menu and then pick the item you want to add.
 
-<figure style={{textAlign: 'center'}}>
-  <img src={require('/img/command-menu.webp').default} />
-</figure>
+![](/img/command-menu.webp)
 
 ### **How to create a new page**
 
