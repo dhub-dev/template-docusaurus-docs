@@ -19,7 +19,7 @@ Assuming you want to bootstrap your own docs, here's 3 steps you might want foll
 
 ## Step 1
 
-![](/img/step-1.png)
+[![](/img/step-1.png)](edit.mdx)
 
 Everything you see here is editable. [Follow this link to learn more about how to edit your content on Dhub.](edit.mdx)
 
