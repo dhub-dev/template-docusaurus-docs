@@ -19,7 +19,7 @@ Assuming you want to bootstrap your own docs, here's 3 steps you might want foll
 
 ## Step 1
 
-![](/img/step-1.png)
+[![](/img/step-1.png)](edit.mdx)
 
 Everything you see here is editable. [Follow this link to learn more about how to edit your content on Dhub.](edit.mdx)
 
@@ -39,7 +39,7 @@ You own your website's source code. [Learn how to create a GitHub repository for
 
 Deploy your website to the Web with the help of Vercel or Netlify.
 
-## Still confused?
+## Confused?
 
 We'd love to help you with any of the steps! Just click the send feedback button at the top right corner (it sends a message directly to our Slack) or shoot us an email at [hello@dhub.dev](mailto:hello@dhub.dev)
 
