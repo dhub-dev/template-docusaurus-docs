@@ -27,7 +27,7 @@ Everything you see here is editable. [Follow this link to learn more about how t
 
 ## **Step 2**
 
-[![](/img/step-2.png)](intro.md)
+[![](/img/step-2.png)](push-to-github.mdx)
 
 You own your website's source code. [Learn how to create a GitHub repository for your project.](intro.md)
 
@@ -35,7 +35,7 @@ You own your website's source code. [Learn how to create a GitHub repository for
 
 ## **Step 3**
 
-[![](/img/step-3.png)](push-to-github.mdx)
+[![](/img/step-3.png)](deploy-website.mdx)
 
 Deploy your website to the Web with the help of Vercel or Netlify.
 
