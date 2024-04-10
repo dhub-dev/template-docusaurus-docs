@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/dhub-dev/template-docusaurus-docs/tree/main",
+            "https://github.com/dhub-dev/template-docusaurus-blog/tree/main",
         },
         blog: false,
         theme: {
