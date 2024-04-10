@@ -62,10 +62,6 @@ const config = {
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "Universal Docs",
-        items: [
-          { to: "/", label: "Home", position: "left" },
-          { to: "/about-page", label: "About", position: "left" },
-        ],
       },
       footer: {
         style: "light",
@@ -110,19 +106,6 @@ const config = {
               {
                 label: "Documentation",
                 href: "https://docs.dhub.dev",
-              },
-            ],
-          },
-          {
-            title: "Site links",
-            items: [
-              {
-                label: "Documentation",
-                href: "/",
-              },
-              {
-                label: "About Me",
-                href: "/about-page",
               },
             ],
           },
