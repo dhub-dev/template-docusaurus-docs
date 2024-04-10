@@ -13,7 +13,7 @@ It's time to build your documentation! To get started here's a couple of tips to
 
 3. You can deploy your project to the web using Vercel or Netlify for free. Here's tutorials on how to deploy to [Vercel](https://vercel.com/guides/deploying-docusaurus-with-vercel) and to [Netlify](https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/). Alternatively, you click the three dots at the top right corner, and then click the `Deloy to Vercel`.
 
-:::note Preview URL
+:::info Preview URL
 
 Here's a link to see how this template looks like when deployed on the Web
 
