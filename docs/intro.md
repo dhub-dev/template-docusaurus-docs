@@ -5,7 +5,9 @@ slug: /
 
 # Introduction
 
-It's time to build your documentation! Here's a couple of tips to get you started with Dhub:
+![](/img/rocket.webp)
+
+It's time to launch your documentation! Here's a couple of tips to get you started with Dhub:
 
 1. Remember that everything in this page is editable (assuming you're in the editor). Type `/` to open the command menu and add images, code blocks and other components.
 
