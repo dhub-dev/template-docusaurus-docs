@@ -3,9 +3,23 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome to Dhub
+# Introduction
 
-## Getting Started with Dhub and Docusaurus
+It's time to build your documentation! To get started here's a couple of tips to get you started with Dhub:
+
+1. Remember that everything in this page is editable (assuming you're in the editor). Type / to open the command menu and add images, code blocks and other components.
+
+2. With Dhub, you own your code. Click the `Push GitHub` button to create a GitHub repository for your project.
+
+3. You can deploy your project to the web using Vercel or Netlify for free. Here's tutorials on how to deploy to [Vercel](https://vercel.com/guides/deploying-docusaurus-with-vercel) and to [Netlify](https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/). Alternatively, you click the three dots at the top right corner, and then click the `Deloy to Vercel`.
+
+:::note Preview URL
+
+Here's a link to see how this template looks like when deployed on the Web
+
+[https://template-docusaurus-docs.dhub.dev/](https://template-docusaurus-docs.dhub.dev/)
+
+:::
 
 Greetings, writer! 🚀 Welcome to Dhub, your all-in-one online editor designed for crafting beautiful documentation sites using the powerful Docusaurus framework.
 
