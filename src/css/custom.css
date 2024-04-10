@@ -4,10 +4,10 @@
  * work well for content-centric websites.
  */
 
- @import url("https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
 
  /* You can override the default Infima variables here. */
  :root {
+   --ifm-background-color: #f4f7fa;
    --ifm-color-primary: #0354a0;
    --ifm-color-primary-dark: #034c90;
    --ifm-color-primary-darker: #034788;
@@ -27,9 +27,7 @@
    --ifm-hr-background-color: var(--ifm-color-emphasis-300);
  }
  
- [data-theme="light"] {
-   --ifm-navbar-shadow: 0 1px 0px 0 var(--ifm-color-emphasis-300);
- }
+
  
  [data-theme="dark"] {
    --ifm-color-primary: #a6c7f2;
