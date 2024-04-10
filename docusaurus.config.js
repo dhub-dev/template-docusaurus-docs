@@ -67,25 +67,29 @@ const config = {
         style: "light",
         links: [
           {
-            title: "Docusaurus Community",
+            title: "Community",
             items: [
               {
                 label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                href: "https://stackoverflow.com/questions/tagged/dhub",
               },
               {
                 label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://discord.com/invite/6qGnyrt7xy",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/withdhub",
               },
             ],
           },
           {
-            title: "Docusaurus Resources",
+            title: "Docusaurus",
             items: [
+              {
+                label: "Home",
+                href: "https://docusaurus.io",
+              },
               {
                 label: "Documentation",
                 href: "https://docusaurus.io/docs/blog",
@@ -97,15 +101,15 @@ const config = {
             ],
           },
           {
-            title: "Dhub Resources",
+            title: "Dhub",
             items: [
               {
-                label: "Application",
+                label: "Home",
                 href: "https://dhub.dev",
               },
               {
-                label: "Documentation",
-                href: "https://docs.dhub.dev",
+                label: "Get in touch",
+                href: "mailto:hello@dhub.dev",
               },
             ],
           },
