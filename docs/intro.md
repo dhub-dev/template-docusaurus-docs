@@ -3,46 +3,36 @@ sidebar_position: 1
 slug: /
 ---
 
-# Getting Started
+# Introduction
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+It's time to launch your documentation! Welcome to Dhub's documentation template.
 
-### Installation
+![](/img/rocket.webp)
 
-```
-$ yarn
-```
+## Get started
 
-### Local Development
+Here's a couple of tips to get you started with Dhub:
 
-```
-$ yarn start
-```
+1. Remember that everything on this page is editable (assuming you're in the editor). Type `/` to open the command menu and add images, code blocks and other components.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+2. With Dhub, you own your code. Click the `Push GitHub` button to create a GitHub repository for your project.
 
-### Build
+3. You can deploy your project to the web using [Vercel](https://vercel.com) or [Netlify](https://netlify.com) for free. Here are tutorials on how to deploy to [Vercel](https://vercel.com/guides/deploying-docusaurus-with-vercel) and to [Netlify](https://www.netlify.com/blog/2016/10/27/a-step-by-step-guide-deploying-a-static-site-or-single-page-app/). Alternatively, you click the three dots at the top right corner, and then click the `Deloy to Vercel`.
 
-```
-$ yarn build
-```
+:::info Preview URL
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Here's a link to see how this template looks like when deployed on the Web
 
-### Deployment
+[https://template-docusaurus-docs.dhub.dev](https://template-docusaurus-docs.dhub.dev/)
 
-Read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**.
+:::
 
-Using SSH:
+## Docusaurus
 
-```
-$ USE_SSH=true yarn deploy
-```
+This template is based on Meta's [Docusaurus](https://docusaurus.io/) framework. Docusaurus is a powerful tool for building content-centric websites, offering features such as translations, versioning, and content search.
 
-Not using SSH:
+Explore [Docusaurus' documentation](https://docusaurus.io/docs) to learn more about its capabilities.&#x20;
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
+## **Need help?**
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Need help with a specific use-case or just want to chat about docs? You're very welcome to email us at [hello@dhub.dev](mailto:hello@dhub.dev), [join our Discord](https://discord.gg/6qGnyrt7xy), or send feedback (directly to our Slack) using the `Send feedback` button at the top.&#x20;

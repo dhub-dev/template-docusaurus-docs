@@ -8,9 +8,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Universal Docs",
+  title: "Documentation",
   tagline: "Efficient documentation solutions for everyone.",
-  favicon: "img/favicon.ico",
+  favicon: "img/favicon.png",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-site.example.com",
@@ -62,34 +62,34 @@ const config = {
       image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "Universal Docs",
-        items: [
-          { to: "/", label: "Home", position: "left" },
-          { to: "/about-page", label: "About", position: "left" },
-        ],
       },
       footer: {
         style: "light",
         links: [
           {
-            title: "Docusaurus Community",
+            title: "Community",
             items: [
               {
                 label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                href: "https://stackoverflow.com/questions/tagged/dhub",
               },
               {
                 label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
+                href: "https://discord.com/invite/6qGnyrt7xy",
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/withdhub",
               },
             ],
           },
           {
-            title: "Docusaurus Resources",
+            title: "Docusaurus",
             items: [
+              {
+                label: "Home",
+                href: "https://docusaurus.io",
+              },
               {
                 label: "Documentation",
                 href: "https://docusaurus.io/docs/blog",
@@ -101,28 +101,15 @@ const config = {
             ],
           },
           {
-            title: "Dhub Resources",
+            title: "Dhub",
             items: [
               {
-                label: "Application",
+                label: "Home",
                 href: "https://dhub.dev",
               },
               {
-                label: "Documentation",
-                href: "https://docs.dhub.dev",
-              },
-            ],
-          },
-          {
-            title: "Site links",
-            items: [
-              {
-                label: "Documentation",
-                href: "/",
-              },
-              {
-                label: "About Me",
-                href: "/about-page",
+                label: "Get in touch",
+                href: "mailto:hello@dhub.dev",
               },
             ],
           },
