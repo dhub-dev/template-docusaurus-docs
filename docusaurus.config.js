@@ -8,7 +8,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Universal Docs",
+  title: "Documentation",
   tagline: "Efficient documentation solutions for everyone.",
   favicon: "img/favicon.png",
 
