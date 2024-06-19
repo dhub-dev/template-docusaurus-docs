@@ -5,7 +5,11 @@ slug: /
 
 # Introduction
 
-It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s documentation template.
+It's time to launch your documentation! Welcome to [Dhub](https://dhub.dev)'s open-source documentation template.
+
+:::info
+[Dhub](https://dhub.dev) is a collaborative WYSIWYG editor for Docusaurus that enables both technical and non-technical users to efficiently and easily create and edit Docusaurus Markdown content.
+:::
 
 ![](/img/rocket.webp)
 
