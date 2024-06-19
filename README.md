@@ -1,6 +1,6 @@
 # Docusaurus documentation template
 
-This project is a Docusaurus documentation template used on Dhub, a wysiwyg mdx editor available at [dhub.dev](https://dhub.dev).
+This project is a Docusaurus documentation template used on Dhub, a WYSIWYG mdx editor available at [dhub.dev](https://dhub.dev).
 
 ### Preview
 
